@@ -1,4 +1,5 @@
 # The Python program 'Collatz_Conjecture_Altitude_Generator.py' generates the altitudes and the number of steps of a trajectory of a flight number.
+
 # This software can be run for free on Replit.com
 
 # decleration of initial variables
