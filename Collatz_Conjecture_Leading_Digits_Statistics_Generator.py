@@ -1,4 +1,6 @@
-#
+# The Python program 'Collatz_Conjecture_Leading_Digits_Statistics_Generator.py' generates the percentage occurence of leading digits in the altitudes of trajectories of flight numbers.
+
+# This software can be run for free on Replit.com
 
 # decleration of initial variables
 
