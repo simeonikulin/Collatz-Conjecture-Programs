@@ -1,3 +1,8 @@
+# The Python program 'Collatz_Conjecture_Batch_Altitude_Generator.py' generates the altitudes of the trajectories of several flight numbers.
+# This program also comes with an additional file called 'trajectoryData.csv' to which the program writes data to.
+
+# This software can be run for free on Replit.com
+
 # importing library to write to CSV file
 import csv
 
