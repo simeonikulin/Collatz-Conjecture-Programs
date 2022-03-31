@@ -1,3 +1,5 @@
+#
+
 # decleration of initial variables
 
 flightNumber = 1
