@@ -1,3 +1,6 @@
+# The Python program 'Collatz_Conjecture_Altitude_Generator.py' generates the altitudes and the number of steps of a trajectory of a flight number.
+# This software can be run for free on Replit.com
+
 # decleration of initial variables
 
 steps = 0
@@ -23,7 +26,7 @@ while flag:
     # conditional statement for the 3x+1 algorithm
     
     if altitude % 2 == 0:
-    # checks if altitude is evenand halves it as per rules of the conjecture
+    # checks if altitude is even and halves it as per rules of the conjecture
       
       altitude = altitude/2
       
